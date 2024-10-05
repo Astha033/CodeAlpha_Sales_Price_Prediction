@@ -1,6 +1,6 @@
 # CodeAlpha_Sales_Price_Prediction
 
-This is a sales prediction project using Python. It starts with basic data importation and visualization using libraries like numpy, pandas, matplotlib, and seaborn. Here's a draft of the README based on this overview:
+This is a sales prediction project using Python. It starts with basic data importation and visualization using libraries like numpy, pandas, matplotlib, and seaborn. 
 Overview
 This project demonstrates how to build a basic sales prediction model using Python. The dataset used in this project is related to advertising and its effect on sales, featuring key variables like TV, Radio, and Newspaper advertising expenditures.
 
